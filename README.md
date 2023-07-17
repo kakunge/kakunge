@@ -20,7 +20,7 @@
 - [Jeju SW Club Product Competition](https://github.com/KoYejune0302/2020faceDetectingThermometer)(2020)
 - CAUtion Summer Web Hacking Project - [WebH3ll](https://github.com/WebH3ll)(2022.07~08)
 - 1st ISANG X CAUtion CTF - Web Server and PR team(2022.11~2023.01)
-- CAUtion Web Project - [Front End](https://github.com/CAUti0n/CAUtion-Web-Front-End)(2022.01~)
+- CAUtion Web Project - [Front End](https://github.com/CAUti0n/CAUtion-Web-Front-End)(2023.01~)
 
 <h3 align="left">🚀 Position</h3>
 
