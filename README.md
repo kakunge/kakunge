@@ -6,6 +6,7 @@
 
 - Jeju Science High School(2019.03~2022.02)
 - Computer Science Engineering, Chung-Ang University(2022.03~)
+- [KITRI Best of the Best](https://www.kitribob.kr/) 12th Security Product Development Track
 
 <h3 align="left">🏢 Community</h3>
 
@@ -21,6 +22,8 @@
 - CAUtion Summer Web Hacking Project - [WebH3ll](https://github.com/WebH3ll)(2022.07~08)
 - 1st ISANG X CAUtion CTF - Web Server and PR team(2022.11~2023.01)
 - CAUtion Web Project - [Front End](https://github.com/CAUti0n/CAUtion-Web-Front-End)(2023.01~)
+- BoB 12th Project - [Team WTF](https://github.com/BoB-WebFuzzing)(2023.09~12)
+- 2nd CAUtion X ISANG CTF - Web Server and Challenge team(2023.11~2024.01)
 
 <h3 align="left">🚀 Position</h3>
 
