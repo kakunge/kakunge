@@ -6,7 +6,7 @@
 
 - Jeju Science High School(2019.03~2022.02)
 - Computer Science Engineering, Chung-Ang University(2022.03~)
-- [KITRI Best of the Best](https://www.kitribob.kr/) 12th Security Product Development Track - WhiteHat 10(2023.07.01~2024.03.22)
+- [KITRI Best of the Best](https://www.kitribob.kr/) 12th Security Product Development Track - WhiteHat10(2023.07.01~2024.03.22)
 
 <h3 align="left">🏢 Community</h3>
 
