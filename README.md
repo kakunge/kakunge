@@ -6,7 +6,7 @@
 
 - Jeju Science High School(2019.03~2022.02)
 - Computer Science Engineering, Chung-Ang University(2022.03~)
-- [KITRI Best of the Best](https://www.kitribob.kr/) 12th Security Product Development Track
+- [KITRI Best of the Best](https://www.kitribob.kr/) 12th Security Product Development Track - WhiteHat 10(2023.07.01~2024.03.22)
 
 <h3 align="left">🏢 Community</h3>
 
@@ -21,9 +21,14 @@
 - [Jeju SW Club Product Competition](https://github.com/KoYejune0302/2020faceDetectingThermometer)(2020)
 - CAUtion Summer Web Hacking Project - [WebH3ll](https://github.com/WebH3ll)(2022.07~08)
 - 1st ISANG X CAUtion CTF - Web Server and PR team(2022.11~2023.01)
-- CAUtion Web Project - [Front End](https://github.com/CAUti0n/CAUtion-Web-Front-End)(2023.01~)
+- CAUtion Web Project - [Front End](https://github.com/CAUti0n/CAUtion-Web-Front-End)(2023.01~08)
 - BoB 12th Project - [Team WTF](https://github.com/BoB-WebFuzzing)(2023.09~12)
 - 2nd CAUtion X ISANG CTF - Web Server and Challenge team(2023.11~2024.01)
+- NAVER Whale ON Vulnerability Analysis(2024.03~)
+
+<h3 align="left">📽️ Presentation</h3>
+
+- CCA 3rd Seminar For newbies - 기출문제로 알아보는 ECDSA(2023.03.17)
 
 <h3 align="left">🚀 Position</h3>
 
