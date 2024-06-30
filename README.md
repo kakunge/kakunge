@@ -24,7 +24,6 @@
 - CAUtion Web Project - [Front End](https://github.com/CAUti0n/CAUtion-Web-Front-End)(2023.01~08)
 - BoB 12th Project - [Team WTF](https://github.com/BoB-WebFuzzing)(2023.09~12)
 - 2nd CAUtion X ISANG CTF - Web Server and Challenge team(2023.11~2024.01)
-- NAVER Whale ON Vulnerability Analysis(2024.03~)
 
 <h3 align="left">📽️ Presentation</h3>
 
