@@ -28,6 +28,7 @@
 <h3 align="left">📽️ Presentation</h3>
 
 - CCA 3rd Seminar For newbies - 기출문제로 알아보는 ECDSA(2023.03.17)
+- Team H4C 학생용 해킹노트 online conference - BoB와 보안제품개발 트랙에 대한 이야기(2024.08.01)
 
 <h3 align="left">🚀 Position</h3>
 
