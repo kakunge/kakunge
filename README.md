@@ -33,4 +33,4 @@
 <h3 align="left">🚀 Position</h3>
 
 - Management of CAUtion(2022)
-- President of CAUtion(2023~)
+- President of CAUtion(2023~2025.02)
